@@ -1,0 +1,9 @@
+setup.py
+TANISample/__init__.py
+TANISample/nmstools.py
+TANISample/othertools.py
+TANISample/sampletools.py
+TANISample.egg-info/PKG-INFO
+TANISample.egg-info/SOURCES.txt
+TANISample.egg-info/dependency_links.txt
+TANISample.egg-info/top_level.txt
